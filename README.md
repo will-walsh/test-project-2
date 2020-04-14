@@ -1,2 +1,2 @@
 # test-project-2
-testing code here...
+testing code here... primarily focused on Python.
