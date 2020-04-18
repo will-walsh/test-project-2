@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 name = "Will"
 print("Hello %s" % name)
