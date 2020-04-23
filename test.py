@@ -20,4 +20,5 @@ if (shorter_course in course):
 else:
     print("You will not learn %s in %s" % (shorter_course, course))
     
-
+for class_letter in course[:]:
+    print(class_letter)
