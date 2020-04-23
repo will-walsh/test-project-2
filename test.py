@@ -22,3 +22,4 @@ else:
     
 for class_letter in course[:]:
     print(class_letter)
+
